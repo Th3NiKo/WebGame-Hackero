@@ -1,0 +1,129 @@
+.flex-Container {
+   display: -webkit-flex;
+   display: flex;
+   -webkit-flex-direction: row;
+   flex-direction: column;
+}
+
+.flex-item {
+    margin: 10px;
+	flex: auto;
+	min-width:500px;
+}
+
+
+
+input[type=text] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #112435;
+	border: 1px solid #8db0d3;
+    color: #dcde5d;
+}
+
+input[type=password] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #112435;
+	border: 1px solid #8db0d3;
+    color: #dcde5d;
+}
+
+
+body {
+	background-color: #112435;
+	color: #8db0d3;
+	font-size: 1em;
+	font-family: Courier New;
+}
+
+a {
+    color: white;
+}
+
+
+text {
+	color: #f4dd0b;
+}
+
+text2 {
+	color: #dcde5d;
+}
+
+text3 {
+	color: white;
+}
+
+.error {
+	color: #cf804a;
+}
+
+h1 {
+	text-align: center;
+	color: #8db0d3;
+	font-size: 4em;
+	
+}
+
+.textCenter {
+	text-align: center;
+}
+
+.column {
+	float: left;
+	text-align: center;
+	width: 50%;
+}
+
+h2{
+	color: #cf804a;
+	font-size: 1.75em;
+}
+
+.fame {
+	text-align: center;
+	color: #dcde5d;
+	font-size:1.25em;
+}
+
+
+.fame:hover {
+	background-color: #273a4b;
+	Cursor: pointer;
+}
+
+
+
+
+	.button-success,
+    .button-error,
+    .button-warning,
+    .button-secondary {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    }
+
+    .button-success {
+		background: rgb(28, 184, 65); /* this is a green */
+    }
+
+    .button-error {
+		background: #8db0d3; /* this is a maroon */
+		width: 100px;
+		height: 30px;
+		color: white;
+    }
+
+    .button-warning {
+       /* background: rgb(12, 50, 180); /* this is an orange */
+	   background: #8db0d3;
+		color: white;
+		
+    }
+
+    .button-secondary {
+        background: rgb(66, 184, 221); /* this is a light blue */
+    }
