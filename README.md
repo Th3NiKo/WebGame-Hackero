@@ -1,6 +1,6 @@
 # WebGame-Hackero
 Game made for learning purpose in October 2017. Plain PHP.
-U can check sample here: <a href="https://hakero.000webhostapp.com/index.php">Hackero sample site</a>
+U can check sample here: <a href="https://hakero.000webhostapp.com/index.php">Hackero sample site</a> (Link can be dead. Last check - 11.03.2019)
 
 <img src="Media_img/logo.png" alt="logo" >
 <h3> Showcase </h3>
